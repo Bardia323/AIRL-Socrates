@@ -4,7 +4,7 @@ This project aims to create an AI model capable of emulating Socrates' character
 
 
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/979273847931027456/1102442665334808616/Bardia323_socrates_inside_an_artificial_neural_network_c65ea162-af37-4e03-967e-908bf397276a.png" alt="Socrates inside AI. Generated with Midjourney" style="width:35%">
+  <img src="https://cdn.discordapp.com/attachments/979273847931027456/1102442665334808616/Bardia323_socrates_inside_an_artificial_neural_network_c65ea162-af37-4e03-967e-908bf397276a.png" alt="Socrates inside AI. Generated with Midjourney" style="width:40%; border: 4px solid black;">
 </p>
 
 
