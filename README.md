@@ -1,7 +1,7 @@
 # AIRL: AI-aligned Reinforcement Learning and Dialogue Generation
 
 This project aims to create an AI model capable of emulating Socrates' character from Plato's works using AI-aligned Reinforcement Learning (AIRL) and pre-trained generative models. We combine Low Rank Adaptation (LoRA) and GPT-Neo-1.3B to generate realistic dialogue in virtual environments with predefined characters. The PPO-trained LoRA model generates more concise and coherent responses, but further training and refinements are needed for improved alignment with Socrates' character.
-
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/15XPnrFpi15Y2d3xGKba-K5qoYKkTfyfO#scrollTo=jVy3QV0vo148)
 ## Installation and Usage
 
 ### Training
